@@ -1,0 +1,4 @@
+deepface==0.0.74
+opencv-contrib-python==4.5.5.64
+opencv-python==4.5.5.64
+tensorflow==2.8.0
